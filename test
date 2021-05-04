@@ -1,2 +1,6 @@
 hello venkat welcome
 hello venkat welcome
+#!/bib/bash
+echo 'cloning the data'
+echo ' '
+date
